@@ -1803,6 +1803,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_sony_imx486_ii_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sony_imx486_ii_snapshot.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_sony_imx486_ii_zsl_preview_dw9714v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sony_imx486_ii_zsl_preview_dw9714v.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_sony_imx486_ii_zsl_video_dw9714v.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sony_imx486_ii_zsl_video_dw9714v.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov12a10_i_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov12a10_i_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov12a10_i_india_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov12a10_i_india_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov5675_i_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov5675_i_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov5675_i_india_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov5675_i_india_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov5675_ii_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov5675_ii_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_ovt_ov5675_ii_india_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ovt_ov5675_ii_india_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_sony_imx486_ii_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sony_imx486_ii_cpp_snapshot_hht.so \
+    vendor/xiaomi/rolex/proprietary/vendor/lib/libchromatix_sony_imx486_ii_india_cpp_snapshot_hht.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_sony_imx486_ii_india_cpp_snapshot_hht.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libflash_gpio.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_gpio.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
     vendor/xiaomi/rolex/proprietary/vendor/lib/libjpegdhw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdhw.so \
